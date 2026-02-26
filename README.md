@@ -1,7 +1,5 @@
 ## Hi, I'm Alevtyna 👋
 Early-Career Machine Learning Engineer based in Berlin.
-<!--
-**nonbinary00/nonbinary00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🔹 About Me
 
@@ -17,4 +15,7 @@ I’m also interested in how AI systems move from experimentation to production 
 Beyond classical deep learning, I explore LLM-based workflows and prompt engineering, focusing on how large language models can be integrated into structured, real-world applications.
 
 I enjoy building projects that are not only functional, but well-structured and reproducible — approaching machine learning as an engineering discipline rather than purely research.
+
+<!--
+**nonbinary00/nonbinary00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
